@@ -1,6 +1,6 @@
 # AAINA
 
-'AAINA' is the main student community in my university. This is a landing page for 'aaina' made as a practice project. (not an official website)
+'AAINA' is the largest student community of Babu Banarasi Das university.
 
 ## Run Locally
 
